@@ -1,0 +1,8 @@
+User-agent  : Googlebot
+Disallow    : /nogooglebot/
+
+User-agent  : *
+Allow       : /
+
+Sitemap     :https://trisula.co.id/id//sitemap.xml
+Sitemap     :https://trisula.co.id/id//sitemap.xml
